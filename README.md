@@ -28,7 +28,7 @@ Ensure you have the following installed:
 ### Steps to Run the Project
 1. **Clone the repository:**
    ```
-   git clone <repository_link>
+   git clone https://github.com/rubankumarsankar/Contact_backend_task.git
    cd contact-management-backend
    ```
 2. **Install dependencies:**
